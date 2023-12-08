@@ -1,7 +1,5 @@
 ## About Me
-I'm Cranwi!
-
-New to GitHub, I've got no clue about what I'm doing.
+Cranwi
 
 Professional fooling arounder.
 
